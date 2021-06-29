@@ -1,0 +1,1255 @@
+Country,Region,City,Site_Name,EO_Sensor,Input_Data,Indicator_code,Measure,Data_Provider,AOI_ID,Hour,Minute,Sec,Year,Month,Day,Latitude,Longitude
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-43.21111696,NASA OBPG,IT6,12,40,00,2019,01,11,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-27.11396628,NASA OBPG,IT6,12,20,00,2019,01,25,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,0.0,NASA OBPG,IT6,12,40,00,2019,02,15,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-29.43766886,NASA OBPG,IT6,11,40,00,2019,02,22,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,56.44504562,NASA OBPG,IT6,12,10,00,2019,02,28,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,33.7619511,NASA OBPG,IT6,12,05,00,2019,03,07,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-13.65877396,NASA OBPG,IT6,12,15,00,2019,03,21,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-14.88655198,NASA OBPG,IT6,12,20,00,2019,03,28,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,0.0,NASA OBPG,IT6,11,45,00,2019,04,18,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-24.87787861,NASA OBPG,IT6,11,50,00,2019,04,25,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,13.45384065,NASA OBPG,IT6,11,55,00,2019,05,02,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,63.86559378,NASA OBPG,IT6,12,05,00,2019,05,09,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,84.53587875,NASA OBPG,IT6,12,10,00,2019,05,16,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,263.818841,NASA OBPG,IT6,12,15,00,2019,05,23,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-22.04919338,NASA OBPG,IT6,12,20,00,2019,05,30,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,24.15211211,NASA OBPG,IT6,12,25,00,2019,06,06,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,400.3817696,NASA OBPG,IT6,12,35,00,2019,06,13,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,31.3839028,NASA OBPG,IT6,12,40,00,2019,06,20,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,82.53459677,NASA OBPG,IT6,12,45,00,2019,06,27,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,7.730872128,NASA OBPG,IT6,11,15,00,2019,07,04,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-31.88901252,NASA OBPG,IT6,11,20,00,2019,07,11,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-2.272925391,NASA OBPG,IT6,12,20,00,2019,07,18,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-20.41476791,NASA OBPG,IT6,11,30,00,2019,07,25,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-54.91115127,NASA OBPG,IT6,11,40,00,2019,08,01,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-14.96671388,NASA OBPG,IT6,11,45,00,2019,08,08,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-30.04115169,NASA OBPG,IT6,11,50,00,2019,08,15,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,38.87927964,NASA OBPG,IT6,11,15,00,2019,08,22,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,53.70043173,NASA OBPG,IT6,12,05,00,2019,08,29,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-30.56141048,NASA OBPG,IT6,12,10,00,2019,09,05,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-30.76899174,NASA OBPG,IT6,12,15,00,2019,09,12,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-2.846617675,NASA OBPG,IT6,11,40,00,2019,09,19,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-22.67504562,NASA OBPG,IT6,12,25,00,2019,09,26,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-22.47059946,NASA OBPG,IT6,11,50,00,2019,10,02,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.179604877,NASA OBPG,IT6,12,40,00,2019,10,10,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,32.77021867,NASA OBPG,IT6,12,45,00,2019,10,17,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,8.695447388,NASA OBPG,IT6,11,25,00,2019,10,24,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-36.48854857,NASA OBPG,IT6,12,20,00,2019,11,07,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,5.122553527,NASA OBPG,IT6,12,45,00,2019,11,21,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,6.757080304,NASA OBPG,IT6,11,55,00,2019,11,28,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.328092075,NASA OBPG,IT6,11,55,00,2019,12,12,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,52.39758987,NASA OBPG,IT6,12,10,00,2019,12,26,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,101.2106204,NASA OBPG,IT6,12,00,00,2020,01,04,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,51.04594362,NASA OBPG,IT6,12,10,00,2020,01,11,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,57.16372494,NASA OBPG,IT6,11,30,00,2020,01,18,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-0.440385783,NASA OBPG,IT6,12,35,00,2020,02,08,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,15.23089328,NASA OBPG,IT6,12,40,00,2020,02,15,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-38.88529215,NASA OBPG,IT6,12,45,00,2020,02,22,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,8.394456331,NASA OBPG,IT6,12,10,00,2020,02,29,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-63.70700224,NASA OBPG,IT6,12,20,00,2020,03,14,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,187.8484573,NASA OBPG,IT6,12,25,00,2020,03,21,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-62.5938302,NASA OBPG,IT6,12,40,00,2020,04,04,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-36.42443884,NASA OBPG,IT6,12,05,00,2020,04,11,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,14.00674307,NASA OBPG,IT6,12,10,00,2020,04,18,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-68.68407883,NASA OBPG,IT6,12,10,00,2020,04,25,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-52.20999242,NASA OBPG,IT6,12,20,00,2020,05,02,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-29.14735217,NASA OBPG,IT6,11,45,00,2020,05,09,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,70.16309338,NASA OBPG,IT6,11,45,00,2020,05,23,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,60.91347069,NASA OBPG,IT6,11,50,00,2020,05,30,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-54.93974978,NASA OBPG,IT6,12,50,00,2020,06,06,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,138.5007588,NASA OBPG,IT6,12,15,00,2020,06,13,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,263.1624535,NASA OBPG,IT6,12,10,00,2020,06,20,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,239.4687783,NASA OBPG,IT6,12,15,00,2020,06,27,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,12.12680429,NASA OBPG,IT6,12,20,00,2020,07,04,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,9.840663476,NASA OBPG,IT6,12,25,00,2020,07,11,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,22.78338332,NASA OBPG,IT6,12,35,00,2020,07,18,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,91.91350262,NASA OBPG,IT6,12,50,00,2020,07,25,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,63.27488332,NASA OBPG,IT6,12,45,00,2020,08,01,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,12.25267222,NASA OBPG,IT6,11,15,00,2020,08,08,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-14.24665062,NASA OBPG,IT6,11,20,00,2020,08,15,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,79.05108555,NASA OBPG,IT6,11,40,00,2020,09,05,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-24.15282441,NASA OBPG,IT6,11,45,00,2020,09,12,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,12.9496717,NASA OBPG,IT6,12,45,00,2020,09,19,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,40.13858973,NASA OBPG,IT6,11,55,00,2020,09,26,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,65.87940306,NASA OBPG,IT6,12,00,00,2020,10,02,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,41.68504437,NASA OBPG,IT6,12,20,00,2020,10,10,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,14.38678872,NASA OBPG,IT6,12,35,00,2020,11,07,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,199.4995467,NASA OBPG,IT6,12,10,00,2020,11,14,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,31.90540234,NASA OBPG,IT6,12,10,00,2020,11,21,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-27.86070258,NASA OBPG,IT6,12,10,00,2020,11,28,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,3.535588251,NASA OBPG,IT6,11,25,00,2020,12,12,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,31.18660997,NASA OBPG,IT6,12,20,00,2020,12,26,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-9.450430084,NASA OBPG,IT6,12,10,00,2021,01,09,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,128.4061582,NASA OBPG,IT6,11,30,00,2021,02,13,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-21.37560685,NASA OBPG,IT6,11,30,00,2021,02,27,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-79.63000825,NASA OBPG,IT6,11,30,00,2021,03,06,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-71.89789906,NASA OBPG,IT6,11,30,00,2021,03,13,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,48.67532445,NASA OBPG,IT6,11,30,00,2021,03,20,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,125.3296898,NASA OBPG,IT6,11,30,00,2021,03,27,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,40.49990399,NASA OBPG,IT6,11,30,00,2021,04,03,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-7.356757036,NASA OBPG,IT6,11,30,00,2021,04,17,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-20.53172586,NASA OBPG,IT6,11,30,00,2021,04,24,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-37.85246711,NASA OBPG,IT6,11,30,00,2021,05,01,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-21.95322081,NASA OBPG,IT6,11,30,00,2021,05,08,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,11.981452,NASA OBPG,IT6,11,30,00,2021,05,15,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-26.05189404,NASA OBPG,IT6,11,30,00,2021,05,29,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,51.36927477,NASA OBPG,IT6,11,30,00,2021,06,05,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,106.3331091,NASA OBPG,IT6,11,30,00,2021,06,12,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-45.72,JAXA/EORC,IT6,00,00,00,2019,01,05,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-44.65,JAXA/EORC,IT6,00,00,00,2019,01,12,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-29.29,JAXA/EORC,IT6,00,00,00,2019,01,26,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,71.16,JAXA/EORC,IT6,00,00,00,2019,02,02,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,1.65,JAXA/EORC,IT6,00,00,00,2019,02,09,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-2.61,JAXA/EORC,IT6,00,00,00,2019,02,16,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,19.01,JAXA/EORC,IT6,00,00,00,2019,02,23,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,34.44,JAXA/EORC,IT6,00,00,00,2019,03,02,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,63.31,JAXA/EORC,IT6,00,00,00,2019,03,09,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,29.2,JAXA/EORC,IT6,00,00,00,2019,03,16,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-3.98,JAXA/EORC,IT6,00,00,00,2019,03,23,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-20.75,JAXA/EORC,IT6,00,00,00,2019,03,30,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-43.6,JAXA/EORC,IT6,00,00,00,2019,04,06,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-11.51,JAXA/EORC,IT6,00,00,00,2019,04,13,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-30.49,JAXA/EORC,IT6,00,00,00,2019,04,20,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,56.7,JAXA/EORC,IT6,00,00,00,2019,04,27,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,37.71,JAXA/EORC,IT6,00,00,00,2019,05,04,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,81.5,JAXA/EORC,IT6,00,00,00,2019,05,18,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,305.0,JAXA/EORC,IT6,00,00,00,2019,05,25,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,62.14,JAXA/EORC,IT6,00,00,00,2019,06,01,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,22.22,JAXA/EORC,IT6,00,00,00,2019,06,08,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,37.98,JAXA/EORC,IT6,00,00,00,2019,06,15,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,4.96,JAXA/EORC,IT6,00,00,00,2019,06,22,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,34.99,JAXA/EORC,IT6,00,00,00,2019,06,29,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-19.94,JAXA/EORC,IT6,00,00,00,2019,07,06,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-31.73,JAXA/EORC,IT6,00,00,00,2019,07,13,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-20.77,JAXA/EORC,IT6,00,00,00,2019,07,20,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-26.15,JAXA/EORC,IT6,00,00,00,2019,07,27,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,8.15,JAXA/EORC,IT6,00,00,00,2019,08,03,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,2.68,JAXA/EORC,IT6,00,00,00,2019,08,10,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,14.56,JAXA/EORC,IT6,00,00,00,2019,08,17,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-32.92,JAXA/EORC,IT6,00,00,00,2019,08,24,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,23.92,JAXA/EORC,IT6,00,00,00,2019,08,31,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-54.63,JAXA/EORC,IT6,00,00,00,2019,09,07,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,6.77,JAXA/EORC,IT6,00,00,00,2019,09,14,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-48.36,JAXA/EORC,IT6,00,00,00,2019,09,21,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-17.23,JAXA/EORC,IT6,00,00,00,2019,09,28,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-18.18,JAXA/EORC,IT6,00,00,00,2019,10,05,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,13.28,JAXA/EORC,IT6,00,00,00,2019,10,12,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,45.59,JAXA/EORC,IT6,00,00,00,2019,10,19,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-21.81,JAXA/EORC,IT6,00,00,00,2019,10,26,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-37.82,JAXA/EORC,IT6,00,00,00,2019,11,02,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,76.4,JAXA/EORC,IT6,00,00,00,2019,11,23,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-6.5,JAXA/EORC,IT6,00,00,00,2019,12,07,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,12.18,JAXA/EORC,IT6,00,00,00,2019,12,21,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,72.71,JAXA/EORC,IT6,00,00,00,2019,12,28,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,33.63,JAXA/EORC,IT6,00,00,00,2020,01,04,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,134.39,JAXA/EORC,IT6,00,00,00,2020,01,11,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,28.91,JAXA/EORC,IT6,00,00,00,2020,01,18,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,38.92,JAXA/EORC,IT6,00,00,00,2020,01,25,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-32.33,JAXA/EORC,IT6,00,00,00,2020,02,08,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-15.46,JAXA/EORC,IT6,00,00,00,2020,02,15,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-15.73,JAXA/EORC,IT6,00,00,00,2020,02,22,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-8.04,JAXA/EORC,IT6,00,00,00,2020,02,29,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-0.02,JAXA/EORC,IT6,00,00,00,2020,03,07,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-35.75,JAXA/EORC,IT6,00,00,00,2020,03,14,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,15.67,JAXA/EORC,IT6,00,00,00,2020,03,21,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,26.25,JAXA/EORC,IT6,00,00,00,2020,03,28,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-14.09,JAXA/EORC,IT6,00,00,00,2020,04,04,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,9.45,JAXA/EORC,IT6,00,00,00,2020,04,11,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-29.17,JAXA/EORC,IT6,00,00,00,2020,04,18,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-23.01,JAXA/EORC,IT6,00,00,00,2020,04,25,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-16.25,JAXA/EORC,IT6,00,00,00,2020,05,02,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-1.89,JAXA/EORC,IT6,00,00,00,2020,05,09,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,17.03,JAXA/EORC,IT6,00,00,00,2020,05,23,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,140.89,JAXA/EORC,IT6,00,00,00,2020,05,30,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,3.6,JAXA/EORC,IT6,00,00,00,2020,06,06,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,38.71,JAXA/EORC,IT6,00,00,00,2020,06,13,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,166.14,JAXA/EORC,IT6,00,00,00,2020,06,20,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,158.39,JAXA/EORC,IT6,00,00,00,2020,06,27,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,20.36,JAXA/EORC,IT6,00,00,00,2020,07,04,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,3.88,JAXA/EORC,IT6,00,00,00,2020,07,11,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,41.18,JAXA/EORC,IT6,00,00,00,2020,07,18,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,53.01,JAXA/EORC,IT6,00,00,00,2020,07,25,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,67.52,JAXA/EORC,IT6,00,00,00,2020,08,01,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,13.87,JAXA/EORC,IT6,00,00,00,2020,08,08,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,53.47,JAXA/EORC,IT6,00,00,00,2020,08,15,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,29.86,JAXA/EORC,IT6,00,00,00,2020,08,22,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,59.69,JAXA/EORC,IT6,00,00,00,2020,08,29,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,17.81,JAXA/EORC,IT6,00,00,00,2020,09,05,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-1.86,JAXA/EORC,IT6,00,00,00,2020,09,12,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-1.05,JAXA/EORC,IT6,00,00,00,2020,09,19,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,10.72,JAXA/EORC,IT6,00,00,00,2020,09,26,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,78.72,JAXA/EORC,IT6,00,00,00,2020,10,03,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,13.77,JAXA/EORC,IT6,00,00,00,2020,10,10,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,12.27,JAXA/EORC,IT6,00,00,00,2020,10,24,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,6.58,JAXA/EORC,IT6,00,00,00,2020,11,07,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,38.91,JAXA/EORC,IT6,00,00,00,2020,11,14,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,55.03,JAXA/EORC,IT6,00,00,00,2020,11,21,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-45.86,JAXA/EORC,IT6,00,00,00,2020,11,28,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-22.29,JAXA/EORC,IT6,00,00,00,2020,12,12,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,13.59,JAXA/EORC,IT6,00,00,00,2020,12,26,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-33.49,JAXA/EORC,IT6,00,00,00,2021,01,09,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-41.17,JAXA/EORC,IT6,00,00,00,2021,01,16,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-18.45,JAXA/EORC,IT6,00,00,00,2021,01,30,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,7.88,JAXA/EORC,IT6,00,00,00,2021,02,06,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,73.17,JAXA/EORC,IT6,00,00,00,2021,02,13,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-25.15,JAXA/EORC,IT6,00,00,00,2021,02,27,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-56.36,JAXA/EORC,IT6,00,00,00,2021,03,06,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-67.43,JAXA/EORC,IT6,00,00,00,2021,03,13,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-25.42,JAXA/EORC,IT6,00,00,00,2021,03,20,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,141.04,JAXA/EORC,IT6,00,00,00,2021,03,27,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,121.47,JAXA/EORC,IT6,00,00,00,2021,04,03,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-17.02,JAXA/EORC,IT6,00,00,00,2021,04,10,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-16.01,JAXA/EORC,IT6,00,00,00,2021,04,17,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,15.96,JAXA/EORC,IT6,00,00,00,2021,04,24,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-18.84,JAXA/EORC,IT6,00,00,00,2021,05,01,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-18.9,JAXA/EORC,IT6,00,00,00,2021,05,08,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-22.29,JAXA/EORC,IT6,00,00,00,2021,05,15,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,47.18,JAXA/EORC,IT6,00,00,00,2021,05,22,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,36.41,JAXA/EORC,IT6,00,00,00,2021,05,29,45.314247,12.508055
+IT,North Adriatic Sea,"Venice, Chl-a",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,51.92,JAXA/EORC,IT6,00,00,00,2021,06,05,45.314247,12.508055
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,17.62,JAXA/EORC,JP01,00,00,00,2019,01,05,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-17.19,JAXA/EORC,JP01,00,00,00,2019,01,12,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,69.9,JAXA/EORC,JP01,00,00,00,2019,01,19,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,115.04,JAXA/EORC,JP01,00,00,00,2019,01,26,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,37.2,JAXA/EORC,JP01,00,00,00,2019,02,02,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,27.23,JAXA/EORC,JP01,00,00,00,2019,02,16,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-31.24,JAXA/EORC,JP01,00,00,00,2019,03,02,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-42.14,JAXA/EORC,JP01,00,00,00,2019,03,09,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-10.36,JAXA/EORC,JP01,00,00,00,2019,03,16,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,11.47,JAXA/EORC,JP01,00,00,00,2019,03,23,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-45.83,JAXA/EORC,JP01,00,00,00,2019,03,30,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-11.33,JAXA/EORC,JP01,00,00,00,2019,04,06,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-11.77,JAXA/EORC,JP01,00,00,00,2019,04,13,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,41.44,JAXA/EORC,JP01,00,00,00,2019,05,11,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,32.16,JAXA/EORC,JP01,00,00,00,2019,05,18,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,95.58,JAXA/EORC,JP01,00,00,00,2019,05,25,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-31.9,JAXA/EORC,JP01,00,00,00,2019,06,01,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,24.83,JAXA/EORC,JP01,00,00,00,2019,06,15,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-1.56,JAXA/EORC,JP01,00,00,00,2019,06,22,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-82.99,JAXA/EORC,JP01,00,00,00,2019,07,27,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,125.89,JAXA/EORC,JP01,00,00,00,2019,08,03,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-23.77,JAXA/EORC,JP01,00,00,00,2019,08,10,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-7.44,JAXA/EORC,JP01,00,00,00,2019,08,17,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,12.63,JAXA/EORC,JP01,00,00,00,2019,08,24,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-51.45,JAXA/EORC,JP01,00,00,00,2019,08,31,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,105.93,JAXA/EORC,JP01,00,00,00,2019,09,07,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-55.35,JAXA/EORC,JP01,00,00,00,2019,09,14,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,49.79,JAXA/EORC,JP01,00,00,00,2019,09,28,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-63.22,JAXA/EORC,JP01,00,00,00,2019,10,05,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,16.6,JAXA/EORC,JP01,00,00,00,2019,10,12,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-15.33,JAXA/EORC,JP01,00,00,00,2019,10,26,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-8.03,JAXA/EORC,JP01,00,00,00,2019,11,02,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,265.03,JAXA/EORC,JP01,00,00,00,2019,11,09,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-43.63,JAXA/EORC,JP01,00,00,00,2019,11,16,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-31.81,JAXA/EORC,JP01,00,00,00,2019,11,23,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-29.28,JAXA/EORC,JP01,00,00,00,2019,11,30,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-41.94,JAXA/EORC,JP01,00,00,00,2019,12,14,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-31.32,JAXA/EORC,JP01,00,00,00,2019,12,21,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-67.57,JAXA/EORC,JP01,00,00,00,2019,12,28,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-28.2,JAXA/EORC,JP01,00,00,00,2020,01,04,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-59.8,JAXA/EORC,JP01,00,00,00,2020,01,11,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-57.37,JAXA/EORC,JP01,00,00,00,2020,01,18,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-46.31,JAXA/EORC,JP01,00,00,00,2020,02,01,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,21.82,JAXA/EORC,JP01,00,00,00,2020,02,08,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-30.45,JAXA/EORC,JP01,00,00,00,2020,02,22,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,103.08,JAXA/EORC,JP01,00,00,00,2020,02,29,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,95.59,JAXA/EORC,JP01,00,00,00,2020,03,07,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,29.02,JAXA/EORC,JP01,00,00,00,2020,03,21,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,95.93,JAXA/EORC,JP01,00,00,00,2020,03,28,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,20.87,JAXA/EORC,JP01,00,00,00,2020,04,04,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,87.63,JAXA/EORC,JP01,00,00,00,2020,04,11,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-8.65,JAXA/EORC,JP01,00,00,00,2020,04,18,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-26.48,JAXA/EORC,JP01,00,00,00,2020,05,02,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-63.96,JAXA/EORC,JP01,00,00,00,2020,05,09,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,68.18,JAXA/EORC,JP01,00,00,00,2020,05,16,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-25.35,JAXA/EORC,JP01,00,00,00,2020,06,06,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,78.69,JAXA/EORC,JP01,00,00,00,2020,06,13,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,0.61,JAXA/EORC,JP01,00,00,00,2020,07,25,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,138.1,JAXA/EORC,JP01,00,00,00,2020,08,01,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-6.96,JAXA/EORC,JP01,00,00,00,2020,08,08,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-25.12,JAXA/EORC,JP01,00,00,00,2020,08,15,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-87.3,JAXA/EORC,JP01,00,00,00,2020,08,22,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,38.85,JAXA/EORC,JP01,00,00,00,2020,08,29,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,168.12,JAXA/EORC,JP01,00,00,00,2020,10,03,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-50.88,JAXA/EORC,JP01,00,00,00,2020,10,24,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-62.28,JAXA/EORC,JP01,00,00,00,2020,10,31,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,4.35,JAXA/EORC,JP01,00,00,00,2020,11,07,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-37.24,JAXA/EORC,JP01,00,00,00,2020,11,14,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,46.62,JAXA/EORC,JP01,00,00,00,2020,11,21,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-55.56,JAXA/EORC,JP01,00,00,00,2020,11,28,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,14.03,JAXA/EORC,JP01,00,00,00,2020,12,05,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,69.67,JAXA/EORC,JP01,00,00,00,2020,12,12,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,79.63,JAXA/EORC,JP01,00,00,00,2020,12,19,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,141.99,JAXA/EORC,JP01,00,00,00,2020,12,26,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,21.55,JAXA/EORC,JP01,00,00,00,2021,01,02,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,110.69,JAXA/EORC,JP01,00,00,00,2021,01,09,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,9.79,JAXA/EORC,JP01,00,00,00,2021,01,16,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-34.9,JAXA/EORC,JP01,00,00,00,2021,01,23,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-3.0,JAXA/EORC,JP01,00,00,00,2021,01,30,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,95.66,JAXA/EORC,JP01,00,00,00,2021,02,06,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,38.41,JAXA/EORC,JP01,00,00,00,2021,02,13,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-43.59,JAXA/EORC,JP01,00,00,00,2021,02,20,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,18.63,JAXA/EORC,JP01,00,00,00,2021,02,27,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,83.74,JAXA/EORC,JP01,00,00,00,2021,03,06,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,39.43,JAXA/EORC,JP01,00,00,00,2021,03,13,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,129.56,JAXA/EORC,JP01,00,00,00,2021,03,20,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-3.88,JAXA/EORC,JP01,00,00,00,2021,03,27,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-10.21,JAXA/EORC,JP01,00,00,00,2021,04,03,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,58.25,JAXA/EORC,JP01,00,00,00,2021,04,10,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,58.26,JAXA/EORC,JP01,00,00,00,2021,04,17,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,134.06,JAXA/EORC,JP01,00,00,00,2021,04,24,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,50.83,JAXA/EORC,JP01,00,00,00,2021,05,01,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-32.19,JAXA/EORC,JP01,00,00,00,2021,05,08,35.550000,139.900000
+JP,Tokyo Bay,"Tokyo, Chl-a",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-33.31,JAXA/EORC,JP01,00,00,00,2021,05,29,35.550000,139.900000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-10.74,JAXA/EORC,JP02,00,00,00,2019,01,05,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-3.06,JAXA/EORC,JP02,00,00,00,2019,01,12,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-1.41,JAXA/EORC,JP02,00,00,00,2019,01,19,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,1.03,JAXA/EORC,JP02,00,00,00,2019,02,02,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,24.11,JAXA/EORC,JP02,00,00,00,2019,02,09,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-27.3,JAXA/EORC,JP02,00,00,00,2019,02,16,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-17.61,JAXA/EORC,JP02,00,00,00,2019,02,23,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-28.38,JAXA/EORC,JP02,00,00,00,2019,03,02,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-27.58,JAXA/EORC,JP02,00,00,00,2019,03,09,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-39.11,JAXA/EORC,JP02,00,00,00,2019,03,16,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-8.57,JAXA/EORC,JP02,00,00,00,2019,03,23,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-34.01,JAXA/EORC,JP02,00,00,00,2019,03,30,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-20.99,JAXA/EORC,JP02,00,00,00,2019,04,06,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,12.6,JAXA/EORC,JP02,00,00,00,2019,04,20,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-45.86,JAXA/EORC,JP02,00,00,00,2019,04,27,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,19.7,JAXA/EORC,JP02,00,00,00,2019,05,04,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-37.43,JAXA/EORC,JP02,00,00,00,2019,05,11,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-40.28,JAXA/EORC,JP02,00,00,00,2019,05,18,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,0.67,JAXA/EORC,JP02,00,00,00,2019,05,25,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,2.19,JAXA/EORC,JP02,00,00,00,2019,06,01,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-9.53,JAXA/EORC,JP02,00,00,00,2019,06,08,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-8.24,JAXA/EORC,JP02,00,00,00,2019,06,22,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,6.8,JAXA/EORC,JP02,00,00,00,2019,07,06,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-29.22,JAXA/EORC,JP02,00,00,00,2019,07,20,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,11.41,JAXA/EORC,JP02,00,00,00,2019,07,27,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,65.13,JAXA/EORC,JP02,00,00,00,2019,08,03,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-21.74,JAXA/EORC,JP02,00,00,00,2019,08,10,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-14.15,JAXA/EORC,JP02,00,00,00,2019,08,17,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,48.4,JAXA/EORC,JP02,00,00,00,2019,08,24,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-15.35,JAXA/EORC,JP02,00,00,00,2019,09,07,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-31.47,JAXA/EORC,JP02,00,00,00,2019,09,14,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-22.88,JAXA/EORC,JP02,00,00,00,2019,09,28,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-30.2,JAXA/EORC,JP02,00,00,00,2019,10,05,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-37.55,JAXA/EORC,JP02,00,00,00,2019,10,12,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-20.18,JAXA/EORC,JP02,00,00,00,2019,10,19,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,20.89,JAXA/EORC,JP02,00,00,00,2019,10,26,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,44.42,JAXA/EORC,JP02,00,00,00,2019,11,02,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-32.92,JAXA/EORC,JP02,00,00,00,2019,11,09,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,0.61,JAXA/EORC,JP02,00,00,00,2019,11,16,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-8.7,JAXA/EORC,JP02,00,00,00,2019,11,23,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,36.41,JAXA/EORC,JP02,00,00,00,2019,11,30,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-4.03,JAXA/EORC,JP02,00,00,00,2019,12,07,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,4.99,JAXA/EORC,JP02,00,00,00,2019,12,14,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,13.24,JAXA/EORC,JP02,00,00,00,2019,12,21,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,40.97,JAXA/EORC,JP02,00,00,00,2019,12,28,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-1.68,JAXA/EORC,JP02,00,00,00,2020,01,04,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-13.62,JAXA/EORC,JP02,00,00,00,2020,01,11,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,24.83,JAXA/EORC,JP02,00,00,00,2020,01,18,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-20.26,JAXA/EORC,JP02,00,00,00,2020,02,01,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,36.56,JAXA/EORC,JP02,00,00,00,2020,02,08,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,28.71,JAXA/EORC,JP02,00,00,00,2020,02,15,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-25.85,JAXA/EORC,JP02,00,00,00,2020,02,22,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-7.26,JAXA/EORC,JP02,00,00,00,2020,02,29,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-15.9,JAXA/EORC,JP02,00,00,00,2020,03,07,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-16.65,JAXA/EORC,JP02,00,00,00,2020,03,14,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-12.16,JAXA/EORC,JP02,00,00,00,2020,03,21,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,5.27,JAXA/EORC,JP02,00,00,00,2020,04,04,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,23.3,JAXA/EORC,JP02,00,00,00,2020,04,11,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-11.71,JAXA/EORC,JP02,00,00,00,2020,04,18,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-14.49,JAXA/EORC,JP02,00,00,00,2020,04,25,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,6.09,JAXA/EORC,JP02,00,00,00,2020,05,02,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-0.83,JAXA/EORC,JP02,00,00,00,2020,05,09,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,25.1,JAXA/EORC,JP02,00,00,00,2020,05,23,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-16.95,JAXA/EORC,JP02,00,00,00,2020,05,30,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-20.53,JAXA/EORC,JP02,00,00,00,2020,06,06,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-34.37,JAXA/EORC,JP02,00,00,00,2020,06,13,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,103.12,JAXA/EORC,JP02,00,00,00,2020,06,20,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-26.98,JAXA/EORC,JP02,00,00,00,2020,06,27,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,4.48,JAXA/EORC,JP02,00,00,00,2020,07,18,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-55.9,JAXA/EORC,JP02,00,00,00,2020,08,01,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,44.23,JAXA/EORC,JP02,00,00,00,2020,08,08,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,11.53,JAXA/EORC,JP02,00,00,00,2020,08,15,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-11.92,JAXA/EORC,JP02,00,00,00,2020,08,22,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-2.73,JAXA/EORC,JP02,00,00,00,2020,08,29,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-12.94,JAXA/EORC,JP02,00,00,00,2020,09,19,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,28.95,JAXA/EORC,JP02,00,00,00,2020,10,03,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,1.97,JAXA/EORC,JP02,00,00,00,2020,10,10,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,96.76,JAXA/EORC,JP02,00,00,00,2020,10,17,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-10.44,JAXA/EORC,JP02,00,00,00,2020,10,24,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,18.82,JAXA/EORC,JP02,00,00,00,2020,10,31,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-2.96,JAXA/EORC,JP02,00,00,00,2020,11,07,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-8.13,JAXA/EORC,JP02,00,00,00,2020,11,14,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-8.67,JAXA/EORC,JP02,00,00,00,2020,11,21,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-19.76,JAXA/EORC,JP02,00,00,00,2020,11,28,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,20.59,JAXA/EORC,JP02,00,00,00,2020,12,05,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-31.47,JAXA/EORC,JP02,00,00,00,2020,12,12,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-28.49,JAXA/EORC,JP02,00,00,00,2020,12,19,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-39.56,JAXA/EORC,JP02,00,00,00,2021,01,02,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,23.87,JAXA/EORC,JP02,00,00,00,2021,01,09,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,10.47,JAXA/EORC,JP02,00,00,00,2021,01,16,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,29.8,JAXA/EORC,JP02,00,00,00,2021,01,23,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,35.11,JAXA/EORC,JP02,00,00,00,2021,01,30,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-23.29,JAXA/EORC,JP02,00,00,00,2021,02,06,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,23.11,JAXA/EORC,JP02,00,00,00,2021,02,13,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,6.84,JAXA/EORC,JP02,00,00,00,2021,02,20,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,54.54,JAXA/EORC,JP02,00,00,00,2021,02,27,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,85.99,JAXA/EORC,JP02,00,00,00,2021,03,06,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-40.1,JAXA/EORC,JP02,00,00,00,2021,03,13,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-3.16,JAXA/EORC,JP02,00,00,00,2021,03,20,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,30.14,JAXA/EORC,JP02,00,00,00,2021,03,27,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,32.05,JAXA/EORC,JP02,00,00,00,2021,04,03,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,13.97,JAXA/EORC,JP02,00,00,00,2021,04,10,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-3.75,JAXA/EORC,JP02,00,00,00,2021,04,17,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-3.79,JAXA/EORC,JP02,00,00,00,2021,04,24,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-9.25,JAXA/EORC,JP02,00,00,00,2021,05,01,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-0.91,JAXA/EORC,JP02,00,00,00,2021,05,08,34.550000,135.150000
+JP,Osaka Bay,"Osaka, Chl-a",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-7.45,JAXA/EORC,JP02,00,00,00,2021,05,29,34.550000,135.150000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,90.19,JAXA/EORC,JP04,00,00,00,2019,01,05,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-44.89,JAXA/EORC,JP04,00,00,00,2019,01,12,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,82.41,JAXA/EORC,JP04,00,00,00,2019,01,19,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,290.35,JAXA/EORC,JP04,00,00,00,2019,01,26,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,318.43,JAXA/EORC,JP04,00,00,00,2019,02,02,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-24.76,JAXA/EORC,JP04,00,00,00,2019,02,09,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,3.09,JAXA/EORC,JP04,00,00,00,2019,02,23,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,161.68,JAXA/EORC,JP04,00,00,00,2019,03,02,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,22.41,JAXA/EORC,JP04,00,00,00,2019,03,09,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-3.88,JAXA/EORC,JP04,00,00,00,2019,03,16,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,18.77,JAXA/EORC,JP04,00,00,00,2019,03,23,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-39.79,JAXA/EORC,JP04,00,00,00,2019,03,30,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-47.41,JAXA/EORC,JP04,00,00,00,2019,04,06,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-52.91,JAXA/EORC,JP04,00,00,00,2019,04,13,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-48.1,JAXA/EORC,JP04,00,00,00,2019,04,20,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-46.08,JAXA/EORC,JP04,00,00,00,2019,04,27,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-38.61,JAXA/EORC,JP04,00,00,00,2019,05,04,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-41.05,JAXA/EORC,JP04,00,00,00,2019,05,11,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-63.27,JAXA/EORC,JP04,00,00,00,2019,05,18,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-42.25,JAXA/EORC,JP04,00,00,00,2019,05,25,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-57.39,JAXA/EORC,JP04,00,00,00,2019,06,08,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-50.2,JAXA/EORC,JP04,00,00,00,2019,06,22,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-69.33,JAXA/EORC,JP04,00,00,00,2019,06,29,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,128.47,JAXA/EORC,JP04,00,00,00,2019,07,27,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-22.23,JAXA/EORC,JP04,00,00,00,2019,08,03,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-33.0,JAXA/EORC,JP04,00,00,00,2019,08,10,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,32.56,JAXA/EORC,JP04,00,00,00,2019,08,17,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,337.68,JAXA/EORC,JP04,00,00,00,2019,08,24,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,456.06,JAXA/EORC,JP04,00,00,00,2019,08,31,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-23.08,JAXA/EORC,JP04,00,00,00,2019,09,07,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-56.11,JAXA/EORC,JP04,00,00,00,2019,09,14,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,237.66,JAXA/EORC,JP04,00,00,00,2019,09,28,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,6.59,JAXA/EORC,JP04,00,00,00,2019,10,05,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-53.4,JAXA/EORC,JP04,00,00,00,2019,10,12,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,17.74,JAXA/EORC,JP04,00,00,00,2019,10,26,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,558.34,JAXA/EORC,JP04,00,00,00,2019,11,02,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,4.81,JAXA/EORC,JP04,00,00,00,2019,11,09,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-14.06,JAXA/EORC,JP04,00,00,00,2019,11,16,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-17.58,JAXA/EORC,JP04,00,00,00,2019,11,23,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,42.19,JAXA/EORC,JP04,00,00,00,2019,11,30,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-19.04,JAXA/EORC,JP04,00,00,00,2019,12,07,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,17.03,JAXA/EORC,JP04,00,00,00,2019,12,14,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-0.32,JAXA/EORC,JP04,00,00,00,2019,12,21,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-12.07,JAXA/EORC,JP04,00,00,00,2019,12,28,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-44.31,JAXA/EORC,JP04,00,00,00,2020,01,04,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-45.27,JAXA/EORC,JP04,00,00,00,2020,01,11,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-61.45,JAXA/EORC,JP04,00,00,00,2020,01,18,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,14.3,JAXA/EORC,JP04,00,00,00,2020,02,01,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,68.68,JAXA/EORC,JP04,00,00,00,2020,02,08,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,68.13,JAXA/EORC,JP04,00,00,00,2020,02,15,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-59.65,JAXA/EORC,JP04,00,00,00,2020,02,22,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-59.77,JAXA/EORC,JP04,00,00,00,2020,02,29,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-29.2,JAXA/EORC,JP04,00,00,00,2020,03,07,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-30.77,JAXA/EORC,JP04,00,00,00,2020,03,14,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-29.92,JAXA/EORC,JP04,00,00,00,2020,03,21,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-36.39,JAXA/EORC,JP04,00,00,00,2020,03,28,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,62.62,JAXA/EORC,JP04,00,00,00,2020,04,04,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,41.97,JAXA/EORC,JP04,00,00,00,2020,04,11,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,238.75,JAXA/EORC,JP04,00,00,00,2020,04,18,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,40.37,JAXA/EORC,JP04,00,00,00,2020,04,25,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-27.23,JAXA/EORC,JP04,00,00,00,2020,05,02,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-25.88,JAXA/EORC,JP04,00,00,00,2020,05,09,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,0.96,JAXA/EORC,JP04,00,00,00,2020,05,16,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,11.91,JAXA/EORC,JP04,00,00,00,2020,05,23,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,71.51,JAXA/EORC,JP04,00,00,00,2020,05,30,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-51.59,JAXA/EORC,JP04,00,00,00,2020,06,06,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,49.53,JAXA/EORC,JP04,00,00,00,2020,06,13,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,183.34,JAXA/EORC,JP04,00,00,00,2020,06,20,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,92.62,JAXA/EORC,JP04,00,00,00,2020,07,18,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,16.51,JAXA/EORC,JP04,00,00,00,2020,08,01,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-10.05,JAXA/EORC,JP04,00,00,00,2020,08,08,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-0.8,JAXA/EORC,JP04,00,00,00,2020,08,15,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-53.96,JAXA/EORC,JP04,00,00,00,2020,08,22,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-32.47,JAXA/EORC,JP04,00,00,00,2020,08,29,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,2.42,JAXA/EORC,JP04,00,00,00,2020,09,05,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-58.05,JAXA/EORC,JP04,00,00,00,2020,09,12,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,24.92,JAXA/EORC,JP04,00,00,00,2020,09,19,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-42.04,JAXA/EORC,JP04,00,00,00,2020,09,26,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-56.91,JAXA/EORC,JP04,00,00,00,2020,10,03,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,51.52,JAXA/EORC,JP04,00,00,00,2020,10,10,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,410.88,JAXA/EORC,JP04,00,00,00,2020,10,17,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-13.35,JAXA/EORC,JP04,00,00,00,2020,10,24,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-66.3,JAXA/EORC,JP04,00,00,00,2020,10,31,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-37.31,JAXA/EORC,JP04,00,00,00,2020,11,07,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,35.39,JAXA/EORC,JP04,00,00,00,2020,11,14,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,28.62,JAXA/EORC,JP04,00,00,00,2020,11,21,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-29.38,JAXA/EORC,JP04,00,00,00,2020,11,28,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-8.9,JAXA/EORC,JP04,00,00,00,2020,12,05,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-42.82,JAXA/EORC,JP04,00,00,00,2020,12,12,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-8.46,JAXA/EORC,JP04,00,00,00,2020,12,19,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,54.2,JAXA/EORC,JP04,00,00,00,2021,01,02,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,80.18,JAXA/EORC,JP04,00,00,00,2021,01,09,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,444.57,JAXA/EORC,JP04,00,00,00,2021,01,16,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,591.5,JAXA/EORC,JP04,00,00,00,2021,01,23,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,4.46,JAXA/EORC,JP04,00,00,00,2021,01,30,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-48.2,JAXA/EORC,JP04,00,00,00,2021,02,06,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-59.48,JAXA/EORC,JP04,00,00,00,2021,02,13,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,116.36,JAXA/EORC,JP04,00,00,00,2021,02,20,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,138.52,JAXA/EORC,JP04,00,00,00,2021,02,27,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,31.49,JAXA/EORC,JP04,00,00,00,2021,03,06,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,17.63,JAXA/EORC,JP04,00,00,00,2021,03,13,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,30.18,JAXA/EORC,JP04,00,00,00,2021,03,20,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,35.23,JAXA/EORC,JP04,00,00,00,2021,03,27,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,113.93,JAXA/EORC,JP04,00,00,00,2021,04,03,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,153.22,JAXA/EORC,JP04,00,00,00,2021,04,10,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-23.8,JAXA/EORC,JP04,00,00,00,2021,04,17,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,63.46,JAXA/EORC,JP04,00,00,00,2021,04,24,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,236.28,JAXA/EORC,JP04,00,00,00,2021,05,01,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,115.07,JAXA/EORC,JP04,00,00,00,2021,05,08,34.750000,136.700000
+JP,Ise Bay,"Ise Bay, Chl-a",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,69.94,JAXA/EORC,JP04,00,00,00,2021,05,22,34.750000,136.700000
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-8.32,JAXA/EORC,JP05,00,00,00,2019,01,05,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-22.94,JAXA/EORC,JP05,00,00,00,2019,01,12,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-17.14,JAXA/EORC,JP05,00,00,00,2019,01,19,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-27.06,JAXA/EORC,JP05,00,00,00,2019,02,02,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-17.19,JAXA/EORC,JP05,00,00,00,2019,02,09,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-34.23,JAXA/EORC,JP05,00,00,00,2019,02,16,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-6.17,JAXA/EORC,JP05,00,00,00,2019,02,23,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-45.18,JAXA/EORC,JP05,00,00,00,2019,03,02,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-17.02,JAXA/EORC,JP05,00,00,00,2019,03,09,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-25.23,JAXA/EORC,JP05,00,00,00,2019,03,16,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,20.5,JAXA/EORC,JP05,00,00,00,2019,03,23,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-31.9,JAXA/EORC,JP05,00,00,00,2019,03,30,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-36.11,JAXA/EORC,JP05,00,00,00,2019,04,06,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,57.81,JAXA/EORC,JP05,00,00,00,2019,04,20,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-46.92,JAXA/EORC,JP05,00,00,00,2019,04,27,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-0.38,JAXA/EORC,JP05,00,00,00,2019,05,04,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-32.94,JAXA/EORC,JP05,00,00,00,2019,05,11,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-30.53,JAXA/EORC,JP05,00,00,00,2019,05,18,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,1.73,JAXA/EORC,JP05,00,00,00,2019,05,25,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-10.93,JAXA/EORC,JP05,00,00,00,2019,06,01,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-23.33,JAXA/EORC,JP05,00,00,00,2019,06,08,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,4.57,JAXA/EORC,JP05,00,00,00,2019,06,22,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-22.44,JAXA/EORC,JP05,00,00,00,2019,07,06,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-39.76,JAXA/EORC,JP05,00,00,00,2019,07,20,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,4.26,JAXA/EORC,JP05,00,00,00,2019,07,27,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-9.12,JAXA/EORC,JP05,00,00,00,2019,08,03,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-37.16,JAXA/EORC,JP05,00,00,00,2019,08,10,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-21.94,JAXA/EORC,JP05,00,00,00,2019,08,17,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-41.79,JAXA/EORC,JP05,00,00,00,2019,08,24,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-42.67,JAXA/EORC,JP05,00,00,00,2019,09,07,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-42.79,JAXA/EORC,JP05,00,00,00,2019,09,14,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-18.02,JAXA/EORC,JP05,00,00,00,2019,09,28,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-25.42,JAXA/EORC,JP05,00,00,00,2019,10,05,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-47.12,JAXA/EORC,JP05,00,00,00,2019,10,12,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,2.99,JAXA/EORC,JP05,00,00,00,2019,10,19,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,2.08,JAXA/EORC,JP05,00,00,00,2019,10,26,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-24.86,JAXA/EORC,JP05,00,00,00,2019,11,02,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-43.34,JAXA/EORC,JP05,00,00,00,2019,11,09,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-9.9,JAXA/EORC,JP05,00,00,00,2019,11,16,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-18.97,JAXA/EORC,JP05,00,00,00,2019,11,23,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-21.82,JAXA/EORC,JP05,00,00,00,2019,11,30,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-45.6,JAXA/EORC,JP05,00,00,00,2019,12,07,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-14.09,JAXA/EORC,JP05,00,00,00,2019,12,14,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-4.35,JAXA/EORC,JP05,00,00,00,2019,12,21,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-22.97,JAXA/EORC,JP05,00,00,00,2019,12,28,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-15.25,JAXA/EORC,JP05,00,00,00,2020,01,04,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-42.84,JAXA/EORC,JP05,00,00,00,2020,01,11,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,136.08,JAXA/EORC,JP05,00,00,00,2020,01,18,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-22.72,JAXA/EORC,JP05,00,00,00,2020,02,01,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,104.98,JAXA/EORC,JP05,00,00,00,2020,02,08,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,49.43,JAXA/EORC,JP05,00,00,00,2020,02,15,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-29.3,JAXA/EORC,JP05,00,00,00,2020,02,22,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-35.15,JAXA/EORC,JP05,00,00,00,2020,02,29,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-44.24,JAXA/EORC,JP05,00,00,00,2020,03,07,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,16.9,JAXA/EORC,JP05,00,00,00,2020,03,14,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-30.2,JAXA/EORC,JP05,00,00,00,2020,03,21,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-42.78,JAXA/EORC,JP05,00,00,00,2020,04,04,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,77.76,JAXA/EORC,JP05,00,00,00,2020,04,11,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-3.65,JAXA/EORC,JP05,00,00,00,2020,04,18,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-16.3,JAXA/EORC,JP05,00,00,00,2020,04,25,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-15.2,JAXA/EORC,JP05,00,00,00,2020,05,02,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,27.96,JAXA/EORC,JP05,00,00,00,2020,05,09,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-9.09,JAXA/EORC,JP05,00,00,00,2020,05,23,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-20.32,JAXA/EORC,JP05,00,00,00,2020,05,30,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,1.03,JAXA/EORC,JP05,00,00,00,2020,06,06,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-39.71,JAXA/EORC,JP05,00,00,00,2020,06,13,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-12.85,JAXA/EORC,JP05,00,00,00,2020,06,20,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-25.41,JAXA/EORC,JP05,00,00,00,2020,07,18,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-51.31,JAXA/EORC,JP05,00,00,00,2020,08,01,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,13.82,JAXA/EORC,JP05,00,00,00,2020,08,08,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-18.44,JAXA/EORC,JP05,00,00,00,2020,08,15,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,80.24,JAXA/EORC,JP05,00,00,00,2020,08,22,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-41.04,JAXA/EORC,JP05,00,00,00,2020,08,29,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-13.74,JAXA/EORC,JP05,00,00,00,2020,09,19,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-46.11,JAXA/EORC,JP05,00,00,00,2020,10,03,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-34.97,JAXA/EORC,JP05,00,00,00,2020,10,10,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-51.89,JAXA/EORC,JP05,00,00,00,2020,10,17,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-46.2,JAXA/EORC,JP05,00,00,00,2020,10,24,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-29.1,JAXA/EORC,JP05,00,00,00,2020,10,31,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-38.96,JAXA/EORC,JP05,00,00,00,2020,11,07,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,16.13,JAXA/EORC,JP05,00,00,00,2020,11,14,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-26.86,JAXA/EORC,JP05,00,00,00,2020,11,21,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-4.69,JAXA/EORC,JP05,00,00,00,2020,11,28,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,12.58,JAXA/EORC,JP05,00,00,00,2020,12,05,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-4.42,JAXA/EORC,JP05,00,00,00,2020,12,12,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,34.79,JAXA/EORC,JP05,00,00,00,2020,12,19,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,83.28,JAXA/EORC,JP05,00,00,00,2021,01,02,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-6.78,JAXA/EORC,JP05,00,00,00,2021,01,09,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,22.99,JAXA/EORC,JP05,00,00,00,2021,01,16,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-26.47,JAXA/EORC,JP05,00,00,00,2021,01,23,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,83.71,JAXA/EORC,JP05,00,00,00,2021,01,30,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,27.16,JAXA/EORC,JP05,00,00,00,2021,02,06,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,93.23,JAXA/EORC,JP05,00,00,00,2021,02,13,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,9.07,JAXA/EORC,JP05,00,00,00,2021,02,20,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,69.13,JAXA/EORC,JP05,00,00,00,2021,02,27,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,27.77,JAXA/EORC,JP05,00,00,00,2021,03,06,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-32.26,JAXA/EORC,JP05,00,00,00,2021,03,13,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,35.47,JAXA/EORC,JP05,00,00,00,2021,03,20,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,2.68,JAXA/EORC,JP05,00,00,00,2021,03,27,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,86.67,JAXA/EORC,JP05,00,00,00,2021,04,03,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-17.45,JAXA/EORC,JP05,00,00,00,2021,04,10,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-0.21,JAXA/EORC,JP05,00,00,00,2021,04,17,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-36.77,JAXA/EORC,JP05,00,00,00,2021,04,24,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,53.03,JAXA/EORC,JP05,00,00,00,2021,05,01,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,-9.22,JAXA/EORC,JP05,00,00,00,2021,05,08,34.550000,135.150001
+JP,Osaka Bay,"Osaka Bay, TSM",Offshore Kobe in the Osaka Bay,GCOM-C/SGLI,EORC product,N3b,35.22,JAXA/EORC,JP05,00,00,00,2021,05,29,34.550000,135.150001
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-47.81,JAXA/EORC,IT10,00,00,00,2019,01,05,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-16.47,JAXA/EORC,IT10,00,00,00,2019,01,12,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-26.53,JAXA/EORC,IT10,00,00,00,2019,01,26,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,712.38,JAXA/EORC,IT10,00,00,00,2019,02,02,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,82.4,JAXA/EORC,IT10,00,00,00,2019,02,09,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,8.33,JAXA/EORC,IT10,00,00,00,2019,02,16,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,38.61,JAXA/EORC,IT10,00,00,00,2019,02,23,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,187.64,JAXA/EORC,IT10,00,00,00,2019,03,02,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,130.48,JAXA/EORC,IT10,00,00,00,2019,03,09,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-12.95,JAXA/EORC,IT10,00,00,00,2019,03,16,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-1.4,JAXA/EORC,IT10,00,00,00,2019,03,23,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-18.12,JAXA/EORC,IT10,00,00,00,2019,03,30,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-40.02,JAXA/EORC,IT10,00,00,00,2019,04,06,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,27.36,JAXA/EORC,IT10,00,00,00,2019,04,13,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-33.62,JAXA/EORC,IT10,00,00,00,2019,04,20,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,181.82,JAXA/EORC,IT10,00,00,00,2019,04,27,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,124.72,JAXA/EORC,IT10,00,00,00,2019,05,04,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,463.96,JAXA/EORC,IT10,00,00,00,2019,05,18,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,479.5,JAXA/EORC,IT10,00,00,00,2019,05,25,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,7.37,JAXA/EORC,IT10,00,00,00,2019,06,01,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,7.54,JAXA/EORC,IT10,00,00,00,2019,06,08,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,80.4,JAXA/EORC,IT10,00,00,00,2019,06,15,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,10.94,JAXA/EORC,IT10,00,00,00,2019,06,22,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,59.26,JAXA/EORC,IT10,00,00,00,2019,06,29,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-23.18,JAXA/EORC,IT10,00,00,00,2019,07,06,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-21.41,JAXA/EORC,IT10,00,00,00,2019,07,13,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,0.99,JAXA/EORC,IT10,00,00,00,2019,07,20,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-31.88,JAXA/EORC,IT10,00,00,00,2019,07,27,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,6.08,JAXA/EORC,IT10,00,00,00,2019,08,03,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-9.14,JAXA/EORC,IT10,00,00,00,2019,08,10,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,59.05,JAXA/EORC,IT10,00,00,00,2019,08,17,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-10.64,JAXA/EORC,IT10,00,00,00,2019,08,24,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,12.3,JAXA/EORC,IT10,00,00,00,2019,08,31,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-32.68,JAXA/EORC,IT10,00,00,00,2019,09,07,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,39.22,JAXA/EORC,IT10,00,00,00,2019,09,14,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-39.6,JAXA/EORC,IT10,00,00,00,2019,09,21,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-13.23,JAXA/EORC,IT10,00,00,00,2019,09,28,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-29.77,JAXA/EORC,IT10,00,00,00,2019,10,05,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,23.27,JAXA/EORC,IT10,00,00,00,2019,10,12,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,6.32,JAXA/EORC,IT10,00,00,00,2019,10,19,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-34.44,JAXA/EORC,IT10,00,00,00,2019,10,26,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-57.37,JAXA/EORC,IT10,00,00,00,2019,11,02,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,47.6,JAXA/EORC,IT10,00,00,00,2019,11,23,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-29.19,JAXA/EORC,IT10,00,00,00,2019,12,07,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,251.24,JAXA/EORC,IT10,00,00,00,2019,12,21,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,117.78,JAXA/EORC,IT10,00,00,00,2019,12,28,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-3.78,JAXA/EORC,IT10,00,00,00,2020,01,04,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,24.56,JAXA/EORC,IT10,00,00,00,2020,01,11,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,4.3,JAXA/EORC,IT10,00,00,00,2020,01,18,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,95.24,JAXA/EORC,IT10,00,00,00,2020,01,25,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-71.42,JAXA/EORC,IT10,00,00,00,2020,02,08,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-37.44,JAXA/EORC,IT10,00,00,00,2020,02,15,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-66.53,JAXA/EORC,IT10,00,00,00,2020,02,22,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-66.85,JAXA/EORC,IT10,00,00,00,2020,02,29,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,37.5,JAXA/EORC,IT10,00,00,00,2020,03,07,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-60.36,JAXA/EORC,IT10,00,00,00,2020,03,14,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,89.61,JAXA/EORC,IT10,00,00,00,2020,03,21,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,76.84,JAXA/EORC,IT10,00,00,00,2020,03,28,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-48.55,JAXA/EORC,IT10,00,00,00,2020,04,04,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-29.64,JAXA/EORC,IT10,00,00,00,2020,04,11,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-50.71,JAXA/EORC,IT10,00,00,00,2020,04,18,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-56.82,JAXA/EORC,IT10,00,00,00,2020,04,25,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-39.16,JAXA/EORC,IT10,00,00,00,2020,05,02,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-22.38,JAXA/EORC,IT10,00,00,00,2020,05,09,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-4.98,JAXA/EORC,IT10,00,00,00,2020,05,23,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,79.68,JAXA/EORC,IT10,00,00,00,2020,05,30,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-39.89,JAXA/EORC,IT10,00,00,00,2020,06,06,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,33.21,JAXA/EORC,IT10,00,00,00,2020,06,13,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-6.98,JAXA/EORC,IT10,00,00,00,2020,06,20,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,107.57,JAXA/EORC,IT10,00,00,00,2020,06,27,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-16.27,JAXA/EORC,IT10,00,00,00,2020,07,04,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-9.94,JAXA/EORC,IT10,00,00,00,2020,07,11,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,21.87,JAXA/EORC,IT10,00,00,00,2020,07,18,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,37.54,JAXA/EORC,IT10,00,00,00,2020,07,25,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,79.05,JAXA/EORC,IT10,00,00,00,2020,08,01,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-13.88,JAXA/EORC,IT10,00,00,00,2020,08,08,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,9.17,JAXA/EORC,IT10,00,00,00,2020,08,15,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,45.47,JAXA/EORC,IT10,00,00,00,2020,08,22,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,250.68,JAXA/EORC,IT10,00,00,00,2020,08,29,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,77.12,JAXA/EORC,IT10,00,00,00,2020,09,05,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-17.08,JAXA/EORC,IT10,00,00,00,2020,09,12,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-14.48,JAXA/EORC,IT10,00,00,00,2020,09,19,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,5.85,JAXA/EORC,IT10,00,00,00,2020,09,26,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,334.8,JAXA/EORC,IT10,00,00,00,2020,10,03,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,51.0,JAXA/EORC,IT10,00,00,00,2020,10,10,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,27.94,JAXA/EORC,IT10,00,00,00,2020,10,24,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,1.43,JAXA/EORC,IT10,00,00,00,2020,11,07,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-38.86,JAXA/EORC,IT10,00,00,00,2020,11,14,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,247.91,JAXA/EORC,IT10,00,00,00,2020,11,21,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-44.62,JAXA/EORC,IT10,00,00,00,2020,11,28,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,39.56,JAXA/EORC,IT10,00,00,00,2020,12,12,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,563.45,JAXA/EORC,IT10,00,00,00,2020,12,26,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,109.88,JAXA/EORC,IT10,00,00,00,2021,01,09,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,60.86,JAXA/EORC,IT10,00,00,00,2021,01,16,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,59.21,JAXA/EORC,IT10,00,00,00,2021,01,30,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,26.37,JAXA/EORC,IT10,00,00,00,2021,02,06,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,925.3,JAXA/EORC,IT10,00,00,00,2021,02,13,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-30.78,JAXA/EORC,IT10,00,00,00,2021,02,27,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-48.91,JAXA/EORC,IT10,00,00,00,2021,03,06,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-84.08,JAXA/EORC,IT10,00,00,00,2021,03,13,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-59.38,JAXA/EORC,IT10,00,00,00,2021,03,20,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,168.92,JAXA/EORC,IT10,00,00,00,2021,03,27,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,60.45,JAXA/EORC,IT10,00,00,00,2021,04,03,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-20.26,JAXA/EORC,IT10,00,00,00,2021,04,10,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-12.03,JAXA/EORC,IT10,00,00,00,2021,04,17,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,10.21,JAXA/EORC,IT10,00,00,00,2021,04,24,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-39.97,JAXA/EORC,IT10,00,00,00,2021,05,01,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-49.01,JAXA/EORC,IT10,00,00,00,2021,05,08,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,-43.8,JAXA/EORC,IT10,00,00,00,2021,05,15,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,113.11,JAXA/EORC,IT10,00,00,00,2021,05,22,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,56.83,JAXA/EORC,IT10,00,00,00,2021,05,29,45.314247,12.508056
+IT,North Adriatic Sea,"Venice, TSM",AAOT fixed station Venezia,GCOM-C/SGLI,EORC product,N3b,33.52,JAXA/EORC,IT10,00,00,00,2021,06,05,45.314247,12.508056
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,49.66,JAXA/EORC,JP06,00,00,00,2019,01,05,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-21.78,JAXA/EORC,JP06,00,00,00,2019,01,12,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-42.93,JAXA/EORC,JP06,00,00,00,2019,01,19,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,73.0,JAXA/EORC,JP06,00,00,00,2019,01,26,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,67.48,JAXA/EORC,JP06,00,00,00,2019,02,02,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-0.02,JAXA/EORC,JP06,00,00,00,2019,02,09,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-27.92,JAXA/EORC,JP06,00,00,00,2019,02,23,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,47.92,JAXA/EORC,JP06,00,00,00,2019,03,02,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,19.73,JAXA/EORC,JP06,00,00,00,2019,03,09,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,40.13,JAXA/EORC,JP06,00,00,00,2019,03,16,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-21.69,JAXA/EORC,JP06,00,00,00,2019,03,23,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-32.93,JAXA/EORC,JP06,00,00,00,2019,03,30,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-55.32,JAXA/EORC,JP06,00,00,00,2019,04,06,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-59.4,JAXA/EORC,JP06,00,00,00,2019,04,13,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-24.74,JAXA/EORC,JP06,00,00,00,2019,04,20,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-59.89,JAXA/EORC,JP06,00,00,00,2019,04,27,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-24.35,JAXA/EORC,JP06,00,00,00,2019,05,04,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-53.88,JAXA/EORC,JP06,00,00,00,2019,05,11,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-57.15,JAXA/EORC,JP06,00,00,00,2019,05,18,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-13.15,JAXA/EORC,JP06,00,00,00,2019,05,25,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-59.77,JAXA/EORC,JP06,00,00,00,2019,06,08,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-42.56,JAXA/EORC,JP06,00,00,00,2019,06,22,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-47.22,JAXA/EORC,JP06,00,00,00,2019,06,29,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,134.45,JAXA/EORC,JP06,00,00,00,2019,07,27,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-12.8,JAXA/EORC,JP06,00,00,00,2019,08,03,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-43.56,JAXA/EORC,JP06,00,00,00,2019,08,10,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,378.11,JAXA/EORC,JP06,00,00,00,2019,08,17,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,150.37,JAXA/EORC,JP06,00,00,00,2019,08,24,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,416.46,JAXA/EORC,JP06,00,00,00,2019,08,31,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-43.08,JAXA/EORC,JP06,00,00,00,2019,09,07,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-55.52,JAXA/EORC,JP06,00,00,00,2019,09,14,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-0.23,JAXA/EORC,JP06,00,00,00,2019,09,28,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,31.57,JAXA/EORC,JP06,00,00,00,2019,10,05,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-27.71,JAXA/EORC,JP06,00,00,00,2019,10,12,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,149.25,JAXA/EORC,JP06,00,00,00,2019,10,26,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,33.8,JAXA/EORC,JP06,00,00,00,2019,11,02,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-12.01,JAXA/EORC,JP06,00,00,00,2019,11,09,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-27.76,JAXA/EORC,JP06,00,00,00,2019,11,16,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-33.38,JAXA/EORC,JP06,00,00,00,2019,11,23,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,34.63,JAXA/EORC,JP06,00,00,00,2019,11,30,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-48.36,JAXA/EORC,JP06,00,00,00,2019,12,07,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-31.9,JAXA/EORC,JP06,00,00,00,2019,12,14,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,9.59,JAXA/EORC,JP06,00,00,00,2019,12,21,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-18.51,JAXA/EORC,JP06,00,00,00,2019,12,28,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-44.59,JAXA/EORC,JP06,00,00,00,2020,01,04,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-42.22,JAXA/EORC,JP06,00,00,00,2020,01,11,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-30.72,JAXA/EORC,JP06,00,00,00,2020,01,18,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,9.83,JAXA/EORC,JP06,00,00,00,2020,02,01,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,372.06,JAXA/EORC,JP06,00,00,00,2020,02,08,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,15.06,JAXA/EORC,JP06,00,00,00,2020,02,15,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-52.82,JAXA/EORC,JP06,00,00,00,2020,02,22,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-54.85,JAXA/EORC,JP06,00,00,00,2020,02,29,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-63.1,JAXA/EORC,JP06,00,00,00,2020,03,07,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-41.27,JAXA/EORC,JP06,00,00,00,2020,03,14,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-49.77,JAXA/EORC,JP06,00,00,00,2020,03,21,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-55.1,JAXA/EORC,JP06,00,00,00,2020,03,28,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,6.47,JAXA/EORC,JP06,00,00,00,2020,04,04,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,30.88,JAXA/EORC,JP06,00,00,00,2020,04,11,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,309.39,JAXA/EORC,JP06,00,00,00,2020,04,18,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,28.43,JAXA/EORC,JP06,00,00,00,2020,04,25,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-45.17,JAXA/EORC,JP06,00,00,00,2020,05,02,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-17.82,JAXA/EORC,JP06,00,00,00,2020,05,09,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-27.62,JAXA/EORC,JP06,00,00,00,2020,05,16,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-9.84,JAXA/EORC,JP06,00,00,00,2020,05,23,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-6.59,JAXA/EORC,JP06,00,00,00,2020,05,30,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-23.41,JAXA/EORC,JP06,00,00,00,2020,06,06,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,150.76,JAXA/EORC,JP06,00,00,00,2020,06,20,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,102.26,JAXA/EORC,JP06,00,00,00,2020,07,18,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,69.52,JAXA/EORC,JP06,00,00,00,2020,08,01,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,2.29,JAXA/EORC,JP06,00,00,00,2020,08,08,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-36.03,JAXA/EORC,JP06,00,00,00,2020,08,15,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-39.27,JAXA/EORC,JP06,00,00,00,2020,08,22,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-39.68,JAXA/EORC,JP06,00,00,00,2020,08,29,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-31.41,JAXA/EORC,JP06,00,00,00,2020,09,05,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-53.63,JAXA/EORC,JP06,00,00,00,2020,09,12,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-4.07,JAXA/EORC,JP06,00,00,00,2020,09,19,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-5.32,JAXA/EORC,JP06,00,00,00,2020,09,26,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-34.98,JAXA/EORC,JP06,00,00,00,2020,10,03,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-37.23,JAXA/EORC,JP06,00,00,00,2020,10,10,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,101.47,JAXA/EORC,JP06,00,00,00,2020,10,17,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,15.32,JAXA/EORC,JP06,00,00,00,2020,10,24,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-7.56,JAXA/EORC,JP06,00,00,00,2020,10,31,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,26.07,JAXA/EORC,JP06,00,00,00,2020,11,07,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,69.79,JAXA/EORC,JP06,00,00,00,2020,11,14,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,0.45,JAXA/EORC,JP06,00,00,00,2020,11,21,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,0.39,JAXA/EORC,JP06,00,00,00,2020,11,28,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,2.82,JAXA/EORC,JP06,00,00,00,2020,12,05,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,44.81,JAXA/EORC,JP06,00,00,00,2020,12,12,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,36.48,JAXA/EORC,JP06,00,00,00,2020,12,19,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,92.92,JAXA/EORC,JP06,00,00,00,2021,01,02,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,225.4,JAXA/EORC,JP06,00,00,00,2021,01,09,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,120.93,JAXA/EORC,JP06,00,00,00,2021,01,16,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,23.9,JAXA/EORC,JP06,00,00,00,2021,01,23,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,49.79,JAXA/EORC,JP06,00,00,00,2021,01,30,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-12.15,JAXA/EORC,JP06,00,00,00,2021,02,06,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,-3.88,JAXA/EORC,JP06,00,00,00,2021,02,13,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,31.34,JAXA/EORC,JP06,00,00,00,2021,02,20,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,72.49,JAXA/EORC,JP06,00,00,00,2021,02,27,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,19.79,JAXA/EORC,JP06,00,00,00,2021,03,06,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,33.16,JAXA/EORC,JP06,00,00,00,2021,03,13,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,74.86,JAXA/EORC,JP06,00,00,00,2021,03,20,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,272.7,JAXA/EORC,JP06,00,00,00,2021,03,27,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,169.4,JAXA/EORC,JP06,00,00,00,2021,04,03,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,48.49,JAXA/EORC,JP06,00,00,00,2021,04,10,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,285.43,JAXA/EORC,JP06,00,00,00,2021,04,17,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,191.62,JAXA/EORC,JP06,00,00,00,2021,04,24,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,196.9,JAXA/EORC,JP06,00,00,00,2021,05,01,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,198.81,JAXA/EORC,JP06,00,00,00,2021,05,08,34.750000,136.700001
+JP,Ise Bay,"Ise Bay, TSM",Center of Ise Bay,GCOM-C/SGLI,EORC product,N3b,109.06,JAXA/EORC,JP06,00,00,00,2021,05,22,34.750000,136.700001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,64.45,JAXA/EORC,JP07,00,00,00,2019,01,05,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,46.71,JAXA/EORC,JP07,00,00,00,2019,01,12,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,31.07,JAXA/EORC,JP07,00,00,00,2019,01,19,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,18.51,JAXA/EORC,JP07,00,00,00,2019,01,26,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-10.04,JAXA/EORC,JP07,00,00,00,2019,02,02,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,47.9,JAXA/EORC,JP07,00,00,00,2019,02,16,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-45.53,JAXA/EORC,JP07,00,00,00,2019,03,02,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-7.24,JAXA/EORC,JP07,00,00,00,2019,03,09,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-37.29,JAXA/EORC,JP07,00,00,00,2019,03,16,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-33.68,JAXA/EORC,JP07,00,00,00,2019,03,23,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-30.36,JAXA/EORC,JP07,00,00,00,2019,03,30,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-23.47,JAXA/EORC,JP07,00,00,00,2019,04,06,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-30.99,JAXA/EORC,JP07,00,00,00,2019,04,13,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,26.54,JAXA/EORC,JP07,00,00,00,2019,05,11,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,0.92,JAXA/EORC,JP07,00,00,00,2019,05,18,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,54.74,JAXA/EORC,JP07,00,00,00,2019,05,25,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-17.79,JAXA/EORC,JP07,00,00,00,2019,06,01,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-8.16,JAXA/EORC,JP07,00,00,00,2019,06,15,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,7.22,JAXA/EORC,JP07,00,00,00,2019,06,22,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-76.14,JAXA/EORC,JP07,00,00,00,2019,07,27,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,43.43,JAXA/EORC,JP07,00,00,00,2019,08,03,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-3.37,JAXA/EORC,JP07,00,00,00,2019,08,10,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-23.57,JAXA/EORC,JP07,00,00,00,2019,08,17,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,14.53,JAXA/EORC,JP07,00,00,00,2019,08,24,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-8.96,JAXA/EORC,JP07,00,00,00,2019,08,31,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,102.81,JAXA/EORC,JP07,00,00,00,2019,09,07,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,4.5,JAXA/EORC,JP07,00,00,00,2019,09,14,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,44.5,JAXA/EORC,JP07,00,00,00,2019,09,28,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-50.36,JAXA/EORC,JP07,00,00,00,2019,10,05,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,137.21,JAXA/EORC,JP07,00,00,00,2019,10,12,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,395.09,JAXA/EORC,JP07,00,00,00,2019,10,26,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,179.68,JAXA/EORC,JP07,00,00,00,2019,11,02,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-22.15,JAXA/EORC,JP07,00,00,00,2019,11,09,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-17.61,JAXA/EORC,JP07,00,00,00,2019,11,16,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,97.54,JAXA/EORC,JP07,00,00,00,2019,11,23,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-41.93,JAXA/EORC,JP07,00,00,00,2019,11,30,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-35.99,JAXA/EORC,JP07,00,00,00,2019,12,14,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-39.74,JAXA/EORC,JP07,00,00,00,2019,12,21,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-56.43,JAXA/EORC,JP07,00,00,00,2019,12,28,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-20.43,JAXA/EORC,JP07,00,00,00,2020,01,04,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-75.39,JAXA/EORC,JP07,00,00,00,2020,01,11,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-60.31,JAXA/EORC,JP07,00,00,00,2020,01,18,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,97.69,JAXA/EORC,JP07,00,00,00,2020,02,01,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-28.63,JAXA/EORC,JP07,00,00,00,2020,02,08,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,80.51,JAXA/EORC,JP07,00,00,00,2020,02,22,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-24.68,JAXA/EORC,JP07,00,00,00,2020,02,29,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-11.89,JAXA/EORC,JP07,00,00,00,2020,03,07,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,25.98,JAXA/EORC,JP07,00,00,00,2020,03,21,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-6.99,JAXA/EORC,JP07,00,00,00,2020,03,28,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-21.73,JAXA/EORC,JP07,00,00,00,2020,04,04,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-3.39,JAXA/EORC,JP07,00,00,00,2020,04,11,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,53.78,JAXA/EORC,JP07,00,00,00,2020,04,18,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-18.52,JAXA/EORC,JP07,00,00,00,2020,05,02,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-53.89,JAXA/EORC,JP07,00,00,00,2020,05,09,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-25.16,JAXA/EORC,JP07,00,00,00,2020,05,16,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,6.66,JAXA/EORC,JP07,00,00,00,2020,06,06,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,14.61,JAXA/EORC,JP07,00,00,00,2020,06,13,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,277.6,JAXA/EORC,JP07,00,00,00,2020,07,25,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,466.35,JAXA/EORC,JP07,00,00,00,2020,08,01,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-6.71,JAXA/EORC,JP07,00,00,00,2020,08,08,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,36.22,JAXA/EORC,JP07,00,00,00,2020,08,15,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,47.63,JAXA/EORC,JP07,00,00,00,2020,08,29,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-45.96,JAXA/EORC,JP07,00,00,00,2020,10,03,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-9.85,JAXA/EORC,JP07,00,00,00,2020,10,24,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-40.33,JAXA/EORC,JP07,00,00,00,2020,10,31,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-29.18,JAXA/EORC,JP07,00,00,00,2020,11,07,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,6.36,JAXA/EORC,JP07,00,00,00,2020,11,14,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-6.77,JAXA/EORC,JP07,00,00,00,2020,11,21,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,26.66,JAXA/EORC,JP07,00,00,00,2020,11,28,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-22.32,JAXA/EORC,JP07,00,00,00,2020,12,05,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,30.28,JAXA/EORC,JP07,00,00,00,2020,12,12,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,18.67,JAXA/EORC,JP07,00,00,00,2020,12,19,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-9.13,JAXA/EORC,JP07,00,00,00,2020,12,26,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,22.55,JAXA/EORC,JP07,00,00,00,2021,01,02,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,314.66,JAXA/EORC,JP07,00,00,00,2021,01,09,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,21.55,JAXA/EORC,JP07,00,00,00,2021,01,16,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,1.62,JAXA/EORC,JP07,00,00,00,2021,01,23,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-33.87,JAXA/EORC,JP07,00,00,00,2021,01,30,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,17.96,JAXA/EORC,JP07,00,00,00,2021,02,06,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-39.96,JAXA/EORC,JP07,00,00,00,2021,02,13,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,40.53,JAXA/EORC,JP07,00,00,00,2021,02,20,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,3.08,JAXA/EORC,JP07,00,00,00,2021,02,27,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,103.8,JAXA/EORC,JP07,00,00,00,2021,03,06,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,48.25,JAXA/EORC,JP07,00,00,00,2021,03,13,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,49.9,JAXA/EORC,JP07,00,00,00,2021,03,20,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,14.2,JAXA/EORC,JP07,00,00,00,2021,03,27,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-15.23,JAXA/EORC,JP07,00,00,00,2021,04,03,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-17.65,JAXA/EORC,JP07,00,00,00,2021,04,10,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-18.15,JAXA/EORC,JP07,00,00,00,2021,04,17,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,5.02,JAXA/EORC,JP07,00,00,00,2021,04,24,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,282.04,JAXA/EORC,JP07,00,00,00,2021,05,01,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-4.78,JAXA/EORC,JP07,00,00,00,2021,05,08,35.550000,139.900001
+JP,Tokyo Bay,"Tokyo, TSM",North part of Tokyo Bay,GCOM-C/SGLI,EORC product,N3b,-38.92,JAXA/EORC,JP07,00,00,00,2021,05,29,35.550000,139.900001
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-8.090164703,NASA OBPG,IT10,12,40,00,2019,01,11,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-4.434022024,NASA OBPG,IT10,12,20,00,2019,01,25,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,0.0,NASA OBPG,IT10,12,40,00,2019,02,15,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-45.15626007,NASA OBPG,IT10,11,40,00,2019,02,22,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,44.32260484,NASA OBPG,IT10,12,10,00,2019,02,28,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-23.26951078,NASA OBPG,IT10,12,05,00,2019,03,07,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-8.055009016,NASA OBPG,IT10,12,15,00,2019,03,21,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,57.88030718,NASA OBPG,IT10,12,20,00,2019,03,28,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,1.902225497,NASA OBPG,IT10,11,45,00,2019,04,18,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,40.3336604,NASA OBPG,IT10,11,50,00,2019,04,25,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-8.648618086,NASA OBPG,IT10,11,55,00,2019,05,02,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,30.7736069,NASA OBPG,IT10,12,05,00,2019,05,09,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,154.3341099,NASA OBPG,IT10,12,10,00,2019,05,16,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,110.3546917,NASA OBPG,IT10,12,15,00,2019,05,23,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,18.7115861,NASA OBPG,IT10,12,20,00,2019,05,30,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-13.09360107,NASA OBPG,IT10,12,25,00,2019,06,06,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,55.91803443,NASA OBPG,IT10,12,35,00,2019,06,13,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,20.1627457,NASA OBPG,IT10,12,40,00,2019,06,20,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,15.22446338,NASA OBPG,IT10,12,45,00,2019,06,27,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-10.60200851,NASA OBPG,IT10,11,15,00,2019,07,04,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-27.88570265,NASA OBPG,IT10,11,20,00,2019,07,11,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-7.706265749,NASA OBPG,IT10,12,20,00,2019,07,18,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-7.759888145,NASA OBPG,IT10,11,30,00,2019,07,25,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-5.152022784,NASA OBPG,IT10,11,40,00,2019,08,01,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,8.893947609,NASA OBPG,IT10,11,45,00,2019,08,08,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.491073777,NASA OBPG,IT10,11,50,00,2019,08,15,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,32.01607634,NASA OBPG,IT10,11,15,00,2019,08,22,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,24.1577548,NASA OBPG,IT10,12,05,00,2019,08,29,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-8.078415426,NASA OBPG,IT10,12,10,00,2019,09,05,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-2.641604094,NASA OBPG,IT10,12,15,00,2019,09,12,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,3.826058523,NASA OBPG,IT10,11,40,00,2019,09,19,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,0.461883191,NASA OBPG,IT10,12,25,00,2019,09,26,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-1.262911069,NASA OBPG,IT10,11,50,00,2019,10,02,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-3.849807828,NASA OBPG,IT10,12,40,00,2019,10,10,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,33.15526016,NASA OBPG,IT10,12,45,00,2019,10,17,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-3.434086384,NASA OBPG,IT10,11,25,00,2019,10,24,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-16.14376843,NASA OBPG,IT10,12,20,00,2019,11,07,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,39.65545445,NASA OBPG,IT10,12,45,00,2019,11,21,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-19.45533901,NASA OBPG,IT10,11,55,00,2019,11,28,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-4.746736421,NASA OBPG,IT10,11,55,00,2019,12,12,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,237.3452066,NASA OBPG,IT10,12,10,00,2019,12,26,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-10.78028094,NASA OBPG,IT10,12,00,00,2020,01,04,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,25.01662468,NASA OBPG,IT10,12,10,00,2020,01,11,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-46.76794819,NASA OBPG,IT10,11,30,00,2020,01,18,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-14.99860118,NASA OBPG,IT10,12,35,00,2020,02,08,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.846394409,NASA OBPG,IT10,12,40,00,2020,02,15,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-59.13566748,NASA OBPG,IT10,12,45,00,2020,02,22,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-28.73979059,NASA OBPG,IT10,12,10,00,2020,02,29,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-43.89888228,NASA OBPG,IT10,12,20,00,2020,03,14,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,194.0292201,NASA OBPG,IT10,12,25,00,2020,03,21,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-24.36377204,NASA OBPG,IT10,12,40,00,2020,04,04,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-13.67924619,NASA OBPG,IT10,12,05,00,2020,04,11,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-15.57959159,NASA OBPG,IT10,12,10,00,2020,04,18,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-54.05392107,NASA OBPG,IT10,12,10,00,2020,04,25,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-41.91803224,NASA OBPG,IT10,12,20,00,2020,05,02,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.396063165,NASA OBPG,IT10,11,45,00,2020,05,09,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-8.625371704,NASA OBPG,IT10,11,45,00,2020,05,23,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,24.84173045,NASA OBPG,IT10,11,50,00,2020,05,30,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-18.30828524,NASA OBPG,IT10,12,50,00,2020,06,06,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,18.31029227,NASA OBPG,IT10,12,15,00,2020,06,13,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,36.10204066,NASA OBPG,IT10,12,10,00,2020,06,20,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,24.40448188,NASA OBPG,IT10,12,15,00,2020,06,27,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.086162582,NASA OBPG,IT10,12,20,00,2020,07,04,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-9.540641828,NASA OBPG,IT10,12,25,00,2020,07,11,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,1.277131467,NASA OBPG,IT10,12,35,00,2020,07,18,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,13.33363098,NASA OBPG,IT10,12,50,00,2020,07,25,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,28.56417639,NASA OBPG,IT10,12,45,00,2020,08,01,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-9.534740142,NASA OBPG,IT10,11,15,00,2020,08,08,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-8.455045868,NASA OBPG,IT10,11,20,00,2020,08,15,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,48.86378312,NASA OBPG,IT10,11,40,00,2020,09,05,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-10.33310694,NASA OBPG,IT10,11,45,00,2020,09,12,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-26.04100636,NASA OBPG,IT10,12,45,00,2020,09,19,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,11.35614021,NASA OBPG,IT10,11,55,00,2020,09,26,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,106.1220322,NASA OBPG,IT10,12,00,00,2020,10,02,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,20.27195403,NASA OBPG,IT10,12,20,00,2020,10,10,45.314247, 12.508056
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,132.2485079,NASA OBPG,IT10,11,25,00,2020,12,12,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,290.7263557,NASA OBPG,IT10,12,20,00,2020,12,26,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,64.19666148,NASA OBPG,IT10,12,10,00,2021,01,09,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,9.481606006,NASA OBPG,IT10,11,30,00,2021,01,16,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,372.6914227,NASA OBPG,IT10,11,30,00,2021,02,13,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-56.14278432,NASA OBPG,IT10,11,30,00,2021,02,27,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-61.59105447,NASA OBPG,IT10,11,30,00,2021,03,06,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-48.343957,NASA OBPG,IT10,11,30,00,2021,03,13,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,2.811495789,NASA OBPG,IT10,11,30,00,2021,03,20,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,11.98743981,NASA OBPG,IT10,11,30,00,2021,03,27,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,0.562527997,NASA OBPG,IT10,11,30,00,2021,04,03,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,4.401065048,NASA OBPG,IT10,11,30,00,2021,04,17,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-3.996498715,NASA OBPG,IT10,11,30,00,2021,04,24,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-50.84147614,NASA OBPG,IT10,11,30,00,2021,05,01,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-5.303439814,NASA OBPG,IT10,11,30,00,2021,05,08,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,-6.075184909,NASA OBPG,IT10,11,30,00,2021,05,15,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,23.15629763,NASA OBPG,IT10,11,30,00,2021,05,29,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,8.460701999,NASA OBPG,IT10,11,30,00,2021,06,05,45.314247, 12.508055
+IT,North Adriatic Sea,"Venice, SPM",AAOT fixed station Venezia,Aqua MODIS,MODISA L2 LAC OC,N3b,26.13825488,NASA OBPG,IT10,11,30,00,2021,06,12,45.314247, 12.508055
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,23.40005067,NASA OBPG,US04,17,30,00,2019,01,04,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,90.99094892,NASA OBPG,US04,17,35,00,2019,01,11,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.86177041,NASA OBPG,US04,17,05,00,2019,01,25,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,30.07789949,NASA OBPG,US04,17,10,00,2019,02,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,20.20905583,NASA OBPG,US04,17,30,00,2019,02,08,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,30.09158063,NASA OBPG,US04,17,25,00,2019,02,15,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,89.57158245,NASA OBPG,US04,17,00,00,2019,02,22,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,38.78482823,NASA OBPG,US04,17,35,00,2019,02,28,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-0.63501325,NASA OBPG,US04,17,40,00,2019,03,07,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,44.58008715,NASA OBPG,US04,17,50,00,2019,03,14,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,1.669728984,NASA OBPG,US04,17,55,00,2019,03,21,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,11.80340306,NASA OBPG,US04,18,00,00,2019,03,28,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,3.230634936,NASA OBPG,US04,18,05,00,2019,04,04,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-19.81349333,NASA OBPG,US04,18,10,00,2019,04,11,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,40.25177714,NASA OBPG,US04,18,20,00,2019,04,18,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-10.23190532,NASA OBPG,US04,18,25,00,2019,04,25,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,59.30844564,NASA OBPG,US04,17,55,00,2019,05,09,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,72.86638112,NASA OBPG,US04,17,30,00,2019,05,16,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,0.243089112,NASA OBPG,US04,18,05,00,2019,05,23,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.7554504,NASA OBPG,US04,17,15,00,2019,05,30,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-7.578372672,NASA OBPG,US04,17,25,00,2019,06,06,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,97.4950796,NASA OBPG,US04,17,30,00,2019,06,13,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,34.93393253,NASA OBPG,US04,17,40,00,2019,06,27,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,16.88176659,NASA OBPG,US04,18,00,00,2019,07,04,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,73.11167763,NASA OBPG,US04,17,55,00,2019,07,11,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,86.50155824,NASA OBPG,US04,18,00,00,2019,07,18,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,163.1416688,NASA OBPG,US04,18,05,00,2019,07,25,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,140.1230235,NASA OBPG,US04,18,10,00,2019,08,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,54.29633926,NASA OBPG,US04,17,35,00,2019,08,08,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,140.5551636,NASA OBPG,US04,18,25,00,2019,08,15,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,145.2244092,NASA OBPG,US04,18,30,00,2019,08,22,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,28.22879765,NASA OBPG,US04,17,55,00,2019,08,29,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,15.78913197,NASA OBPG,US04,17,15,00,2019,09,05,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-0.981456881,NASA OBPG,US04,17,10,00,2019,09,12,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-15.34877714,NASA OBPG,US04,17,15,00,2019,09,19,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,145.898712,NASA OBPG,US04,17,25,00,2019,09,26,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,9.114328025,NASA OBPG,US04,17,30,00,2019,10,02,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-3.816138233,NASA OBPG,US04,17,40,00,2019,10,17,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-20.0373474,NASA OBPG,US04,17,05,00,2019,10,24,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-22.78763731,NASA OBPG,US04,17,55,00,2019,11,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-18.53064971,NASA OBPG,US04,18,00,00,2019,11,07,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-8.601722591,NASA OBPG,US04,18,05,00,2019,11,14,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-30.77520018,NASA OBPG,US04,17,30,00,2019,11,21,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,6.637903995,NASA OBPG,US04,18,15,00,2019,11,28,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-4.337872962,NASA OBPG,US04,18,05,00,2019,12,19,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,7.561080323,NASA OBPG,US04,17,45,00,2019,12,26,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,14.1450897,NASA OBPG,US04,17,05,00,2020,01,11,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,40.94400044,NASA OBPG,US04,18,20,00,2020,01,18,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-41.25027916,NASA OBPG,US04,18,10,00,2020,01,25,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-17.0966507,NASA OBPG,US04,17,25,00,2020,02,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,6.689858914,NASA OBPG,US04,18,30,00,2020,02,15,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,24.41468936,NASA OBPG,US04,17,40,00,2020,02,22,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,21.52579688,NASA OBPG,US04,18,10,00,2020,02,29,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,44.33162623,NASA OBPG,US04,18,05,00,2020,03,07,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-21.31940413,NASA OBPG,US04,17,15,00,2020,03,14,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-19.80536432,NASA OBPG,US04,17,25,00,2020,03,21,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-22.28975969,NASA OBPG,US04,18,25,00,2020,03,28,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,50.62250808,NASA OBPG,US04,17,35,00,2020,04,04,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,68.78959804,NASA OBPG,US04,18,10,00,2020,04,18,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,21.06425003,NASA OBPG,US04,17,10,00,2020,04,25,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.79181019,NASA OBPG,US04,17,25,00,2020,05,09,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,0.764876784,NASA OBPG,US04,18,10,00,2020,05,16,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-15.03088809,NASA OBPG,US04,18,20,00,2020,05,23,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.20959802,NASA OBPG,US04,18,25,00,2020,05,30,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,102.5923895,NASA OBPG,US04,18,30,00,2020,06,06,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-22.86274784,NASA OBPG,US04,17,00,00,2020,06,13,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-30.09563724,NASA OBPG,US04,17,05,00,2020,06,20,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,195.3936728,NASA OBPG,US04,17,10,00,2020,06,27,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.62246108,NASA OBPG,US04,17,15,00,2020,07,04,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-3.520403501,NASA OBPG,US04,17,20,00,2020,07,11,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,68.13156578,NASA OBPG,US04,17,30,00,2020,07,18,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,113.50014,NASA OBPG,US04,17,35,00,2020,07,25,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-12.88175188,NASA OBPG,US04,17,40,00,2020,08,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,16.17563099,NASA OBPG,US04,17,45,00,2020,08,08,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,138.4180393,NASA OBPG,US04,17,55,00,2020,08,15,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,138.7427415,NASA OBPG,US04,18,10,00,2020,09,05,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,66.29635496,NASA OBPG,US04,18,15,00,2020,09,12,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-16.70825018,NASA OBPG,US04,18,25,00,2020,09,19,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,39.91942406,NASA OBPG,US04,18,30,00,2020,09,26,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,30.2884584,NASA OBPG,US04,17,55,00,2020,10,02,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,36.39360108,NASA OBPG,US04,17,05,00,2020,10,10,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,21.01645358,NASA OBPG,US04,18,05,00,2020,10,17,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,39.8532368,NASA OBPG,US04,18,10,00,2020,10,24,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,68.33126492,NASA OBPG,US04,17,20,00,2020,11,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,36.87739184,NASA OBPG,US04,17,30,00,2020,11,07,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-0.491170401,NASA OBPG,US04,17,00,00,2020,11,21,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,114.9383829,NASA OBPG,US04,17,05,00,2020,11,28,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,59.60559412,NASA OBPG,US04,17,55,00,2020,12,05,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,42.51894083,NASA OBPG,US04,18,00,00,2020,12,12,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,5.512202357,NASA OBPG,US04,17,30,00,2020,12,26,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,22.92140702,NASA OBPG,US04,17,55,00,2021,01,02,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,48.68973602,NASA OBPG,US04,17,55,00,2021,01,09,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-6.824479894,NASA OBPG,US04,18,20,00,2021,01,16,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-0.390617479,NASA OBPG,US04,18,20,00,2021,01,23,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,80.04373729,NASA OBPG,US04,18,20,00,2021,01,30,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,16.11944998,NASA OBPG,US04,18,20,00,2021,02,06,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-8.076565131,NASA OBPG,US04,18,20,00,2021,02,20,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,52.70318349,NASA OBPG,US04,18,20,00,2021,02,27,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.23614884,NASA OBPG,US04,18,20,00,2021,03,06,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-21.1596889,NASA OBPG,US04,18,20,00,2021,03,13,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,2.409883502,NASA OBPG,US04,18,20,00,2021,03,20,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-18.33352092,NASA OBPG,US04,18,20,00,2021,03,27,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,4.338398757,NASA OBPG,US04,18,20,00,2021,04,03,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-34.41063582,NASA OBPG,US04,18,20,00,2021,04,10,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,66.08221966,NASA OBPG,US04,18,20,00,2021,04,17,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,6.643941195,NASA OBPG,US04,18,20,00,2021,04,24,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,4.123881339,NASA OBPG,US04,18,20,00,2021,05,01,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,21.38484894,NASA OBPG,US04,18,20,00,2021,05,08,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-39.79283567,NASA OBPG,US04,18,20,00,2021,05,15,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,9.362873643,NASA OBPG,US04,18,20,00,2021,06,05,41.1017, -72.934
+US,New York,"New York, Chl-a",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-46.65694825,NASA OBPG,US04,18,20,00,2021,06,12,41.1017, -72.934
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-35.7302469,NASA OBPG,US04TSM,17,30,00,2019,01,04,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-24.47268799,NASA OBPG,US04TSM,17,35,00,2019,01,11,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,3.136650563,NASA OBPG,US04TSM,17,05,00,2019,01,25,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-42.63110704,NASA OBPG,US04TSM,17,10,00,2019,02,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-24.40979967,NASA OBPG,US04TSM,17,30,00,2019,02,08,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-47.49262556,NASA OBPG,US04TSM,17,25,00,2019,02,15,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-29.7355185,NASA OBPG,US04TSM,17,00,00,2019,02,22,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-33.02815796,NASA OBPG,US04TSM,17,35,00,2019,02,28,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-29.10556593,NASA OBPG,US04TSM,17,40,00,2019,03,07,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-28.47596654,NASA OBPG,US04TSM,17,50,00,2019,03,14,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-33.57813079,NASA OBPG,US04TSM,17,55,00,2019,03,21,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-37.93366887,NASA OBPG,US04TSM,18,00,00,2019,03,28,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-0.461456001,NASA OBPG,US04TSM,18,05,00,2019,04,04,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-10.1166883,NASA OBPG,US04TSM,18,10,00,2019,04,11,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,8.552606573,NASA OBPG,US04TSM,18,20,00,2019,04,18,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,8.181053685,NASA OBPG,US04TSM,18,25,00,2019,04,25,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,7.786869674,NASA OBPG,US04TSM,17,55,00,2019,05,09,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,32.17024921,NASA OBPG,US04TSM,17,30,00,2019,05,16,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,16.30317839,NASA OBPG,US04TSM,18,05,00,2019,05,23,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-21.28324981,NASA OBPG,US04TSM,17,15,00,2019,05,30,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,1.292110903,NASA OBPG,US04TSM,17,25,00,2019,06,06,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-15.53222354,NASA OBPG,US04TSM,17,30,00,2019,06,13,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,6.549749618,NASA OBPG,US04TSM,17,40,00,2019,06,27,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-21.13151282,NASA OBPG,US04TSM,18,00,00,2019,07,04,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-11.05591184,NASA OBPG,US04TSM,17,55,00,2019,07,11,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-16.58861269,NASA OBPG,US04TSM,18,00,00,2019,07,18,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-6.006075414,NASA OBPG,US04TSM,18,05,00,2019,07,25,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-14.61138476,NASA OBPG,US04TSM,18,10,00,2019,08,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,3.377441159,NASA OBPG,US04TSM,17,35,00,2019,08,08,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,3.770261886,NASA OBPG,US04TSM,18,25,00,2019,08,15,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-13.71822834,NASA OBPG,US04TSM,18,30,00,2019,08,22,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-4.829724885,NASA OBPG,US04TSM,17,55,00,2019,08,29,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,7.262158144,NASA OBPG,US04TSM,17,15,00,2019,09,05,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-0.362474254,NASA OBPG,US04TSM,17,10,00,2019,09,12,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,5.383753607,NASA OBPG,US04TSM,17,15,00,2019,09,19,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,1.853442636,NASA OBPG,US04TSM,17,25,00,2019,09,26,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,6.351263643,NASA OBPG,US04TSM,17,30,00,2019,10,02,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,5.693104985,NASA OBPG,US04TSM,17,40,00,2019,10,17,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,7.497908986,NASA OBPG,US04TSM,17,05,00,2019,10,24,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,5.969397134,NASA OBPG,US04TSM,17,55,00,2019,11,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-6.874204305,NASA OBPG,US04TSM,18,00,00,2019,11,07,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.96634238,NASA OBPG,US04TSM,18,05,00,2019,11,14,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-1.261944427,NASA OBPG,US04TSM,17,30,00,2019,11,21,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,42.46482273,NASA OBPG,US04TSM,18,15,00,2019,11,28,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-4.419877737,NASA OBPG,US04TSM,18,05,00,2019,12,19,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-13.64735796,NASA OBPG,US04TSM,17,45,00,2019,12,26,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,8.97521604,NASA OBPG,US04TSM,17,05,00,2020,01,11,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,3.93227312,NASA OBPG,US04TSM,18,20,00,2020,01,18,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,19.48419868,NASA OBPG,US04TSM,18,10,00,2020,01,25,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-11.10686586,NASA OBPG,US04TSM,17,25,00,2020,02,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-5.526875017,NASA OBPG,US04TSM,18,30,00,2020,02,15,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,11.63371103,NASA OBPG,US04TSM,17,40,00,2020,02,22,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,7.829392607,NASA OBPG,US04TSM,18,10,00,2020,02,29,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,10.21255788,NASA OBPG,US04TSM,18,05,00,2020,03,07,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,38.16288517,NASA OBPG,US04TSM,17,15,00,2020,03,14,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,0.924270445,NASA OBPG,US04TSM,17,25,00,2020,03,21,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,4.392123536,NASA OBPG,US04TSM,18,25,00,2020,03,28,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,17.8529381,NASA OBPG,US04TSM,17,35,00,2020,04,04,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-3.177915975,NASA OBPG,US04TSM,18,10,00,2020,04,18,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,20.71294386,NASA OBPG,US04TSM,17,10,00,2020,04,25,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,23.49246933,NASA OBPG,US04TSM,17,25,00,2020,05,09,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,28.9369238,NASA OBPG,US04TSM,18,10,00,2020,05,16,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-17.05006925,NASA OBPG,US04TSM,18,20,00,2020,05,23,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,27.43021161,NASA OBPG,US04TSM,18,25,00,2020,05,30,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-12.3226345,NASA OBPG,US04TSM,18,30,00,2020,06,06,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-4.067259324,NASA OBPG,US04TSM,17,00,00,2020,06,13,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-13.38567435,NASA OBPG,US04TSM,17,05,00,2020,06,20,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-34.75445668,NASA OBPG,US04TSM,17,10,00,2020,06,27,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,4.188169396,NASA OBPG,US04TSM,17,15,00,2020,07,04,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-5.052775525,NASA OBPG,US04TSM,17,20,00,2020,07,11,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,35.0000035,NASA OBPG,US04TSM,17,30,00,2020,07,18,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,38.6943885,NASA OBPG,US04TSM,17,35,00,2020,07,25,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,29.80296753,NASA OBPG,US04TSM,17,40,00,2020,08,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,16.09130083,NASA OBPG,US04TSM,17,45,00,2020,08,08,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,28.12420944,NASA OBPG,US04TSM,17,55,00,2020,08,15,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-5.703069193,NASA OBPG,US04TSM,18,10,00,2020,09,05,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-2.794628861,NASA OBPG,US04TSM,18,15,00,2020,09,12,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,27.78245982,NASA OBPG,US04TSM,18,25,00,2020,09,19,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,24.94499196,NASA OBPG,US04TSM,18,30,00,2020,09,26,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,1.318634425,NASA OBPG,US04TSM,17,55,00,2020,10,02,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-9.335191594,NASA OBPG,US04TSM,17,05,00,2020,10,10,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-1.924735946,NASA OBPG,US04TSM,18,05,00,2020,10,17,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,0.066911886,NASA OBPG,US04TSM,18,10,00,2020,10,24,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-27.88456112,NASA OBPG,US04TSM,17,20,00,2020,11,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-12.2044222,NASA OBPG,US04TSM,17,30,00,2020,11,07,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,5.449610539,NASA OBPG,US04TSM,17,00,00,2020,11,21,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-41.34363824,NASA OBPG,US04TSM,17,05,00,2020,11,28,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-4.551979898,NASA OBPG,US04TSM,17,55,00,2020,12,05,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-4.396774547,NASA OBPG,US04TSM,17,55,00,2021,01,02,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-20.68824203,NASA OBPG,US04TSM,17,55,00,2021,01,09,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,32.72953959,NASA OBPG,US04TSM,18,20,00,2021,01,16,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-21.26904524,NASA OBPG,US04TSM,18,20,00,2021,01,23,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,13.53661429,NASA OBPG,US04TSM,18,20,00,2021,01,30,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-7.895088074,NASA OBPG,US04TSM,18,20,00,2021,02,06,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-23.65962496,NASA OBPG,US04TSM,18,20,00,2021,02,20,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,15.91912667,NASA OBPG,US04TSM,18,20,00,2021,02,27,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-3.219749,NASA OBPG,US04TSM,18,20,00,2021,03,06,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-18.30125626,NASA OBPG,US04TSM,18,20,00,2021,03,13,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-37.18066022,NASA OBPG,US04TSM,18,20,00,2021,03,20,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-10.91111345,NASA OBPG,US04TSM,18,20,00,2021,03,27,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,20.2463164,NASA OBPG,US04TSM,18,20,00,2021,04,03,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-12.46302145,NASA OBPG,US04TSM,18,20,00,2021,04,10,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-8.135493184,NASA OBPG,US04TSM,18,20,00,2021,04,17,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-8.656412377,NASA OBPG,US04TSM,18,20,00,2021,04,24,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,22.26202165,NASA OBPG,US04TSM,18,20,00,2021,05,01,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-11.59390832,NASA OBPG,US04TSM,18,20,00,2021,05,08,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-23.23538546,NASA OBPG,US04TSM,18,20,00,2021,05,15,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-27.664935,NASA OBPG,US04TSM,18,20,00,2021,06,05,41.1017, -72.935
+US,New York,"New York, TSM",AAOT fixed station,MODIS Aqua,MODISA L2 LAC OC,N3b,-7.542258184,NASA OBPG,US04TSM,18,20,00,2021,06,12,41.1017, -72.935
